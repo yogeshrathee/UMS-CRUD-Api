@@ -45,7 +45,7 @@ Make sure you have the following installed:
 ## API Endpoints
 
 - **GET /ums/{regNo}**: Get student details by registration number.
-![](images/Screenshot (12).png)
+![]([images/Screenshot (12).png](https://github.com/yogeshrathee/UMS-CRUD-Api/blob/1cae2e8545b69312d929d0d8218a81bb0fade2e0/images/Screenshot%20(12).png))
 - **GET /ums**: Get all student details.
 - **POST /ums**: Create a new student record.
 - **PUT /ums**: Update an existing student record.
